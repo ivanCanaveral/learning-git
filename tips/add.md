@@ -1,6 +1,6 @@
 # git add
 
-You use git add to begin tracking new files, to stage files and mark files containing conflicts as resolved. In other words, you can use `git add` to add files to the next commit.
+You use `git add` to begin tracking new files, to stage files and mark files containing conflicts as resolved. In other words, you can use `git add` to add files to the next commit.
 
 ## tips
 
