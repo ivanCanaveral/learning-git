@@ -1,6 +1,6 @@
 # git status
 
-It gives you som info about the status of your repo.
+It gives you some info about the status of your repo.
 
 ## tips
 
