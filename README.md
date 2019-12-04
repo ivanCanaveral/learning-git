@@ -1,3 +1,3 @@
 # Learning git
 
-Some concepts and tips about git :)
+This is a little repo with some tips and concepts I'm learning while learning git :)
